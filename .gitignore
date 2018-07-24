@@ -1,0 +1,8 @@
+bin/
+helpers.pyc
+include/
+lib/
+lib64 -> lib
+__pycache__
+pyvenv.cfg
+share/
